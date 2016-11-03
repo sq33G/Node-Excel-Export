@@ -1,6 +1,6 @@
 {
   "name": "excel-export",
-  "version": "0.5.1",
+  "version": "0.4.1",
   "description": "Simple data set export to Excel xlsx file",
   "main": "index.js",
   "scripts": {
@@ -14,8 +14,8 @@
   "author": "Ber-Lin Lai <berlin.lai@gmail.com>",
   "license": "BSD",
   "dependencies": {
-    "collections": "^3.0.0",
-    "node-zip": "1.x"
+    "collections": "^1.2.1",
+    "jszip": "3.x"
   },
   "devDependencies": {
     "mocha": "",
